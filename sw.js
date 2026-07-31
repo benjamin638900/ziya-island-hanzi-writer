@@ -11,7 +11,7 @@ const ASSETS = [
   "./assets/strokes/shan.json",
   "./assets/strokes/shui.json",
   "./assets/strokes/huo.json",
-  "./assets/strokes/mu.json.json",
+  "./assets/strokes/mu_eye.json",
   "./assets/strokes/ren.json",
   "./assets/strokes/kou.json",
   "./assets/strokes/shou.json",
